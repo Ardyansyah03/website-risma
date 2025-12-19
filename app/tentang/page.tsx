@@ -9,47 +9,47 @@ export default function TentangPage() {
     { 
       jabatan: "Ketua Umum", 
       nama: "Rizky Fauzan", 
-      foto: "/pengurus/ketua.jpg" 
+      foto: "/pengurus/ketua.JPG" 
     },
     { 
       jabatan: "Wakil Ketua", 
       nama: "Darul Ramadan", 
-      foto: "/pengurus/wakil.jpg" 
+      foto: "/pengurus/wakil.JPG" 
     },
     { 
       jabatan: "Sekretaris", 
       nama: "Anaya Zhema Syabina", 
-      foto: "/pengurus/sekretaris.jpg" 
+      foto: "/pengurus/Sekretaris.JPG" 
     },
     { 
       jabatan: "Bendahara", 
       nama: "muhammad Sofyan", 
-      foto: "/pengurus/bendahara.jpg" 
+      foto: "/pengurus/bendahara.JPG" 
     },
     { 
       jabatan: "Kabid Informasi & Komunikasi", 
       nama: "Riza Alfiandi", 
-      foto: "/pengurus/riza.jpg" 
+      foto: "/pengurus/riza.JPG" 
     },
     { 
       jabatan: "Kabid Kesenian & Olahraga", 
       nama: "Yudistira", 
-      foto: "/pengurus/yudis.jpg" 
+      foto: "/pengurus/yudis.JPG" 
     },
     { 
       jabatan: "Kabid Organisasi & Kaderisasi", 
       nama: "Kurnia Ramadhina", 
-      foto: "/pengurus/dina.jpg" 
+      foto: "/pengurus/dina.JPG" 
     },
     { 
       jabatan: "Kabid Sosial & Kemasyarakatan", 
       nama: "Guntur Rivaldi", 
-      foto: "/pengurus/guntur.jpg" 
+      foto: "/pengurus/guntur.JPG" 
     },
     { 
       jabatan: "Kabid Kerohanian & Dakwah", 
       nama: "Ahmad Yazid Muzakki", 
-      foto: "/pengurus/yazid.jpg"
+      foto: "/pengurus/yazid.JPG"
     },
   ];
 
